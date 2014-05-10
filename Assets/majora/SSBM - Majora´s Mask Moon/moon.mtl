@@ -1,0 +1,16 @@
+newmtl Model001_Material001
+map_Kd t0011_0.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material002
+map_Kd t0012_0.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material003
+map_Kd t0013_0.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material004
+map_Kd t0014_0.png
+map_bump bumpmap_flat.png
+
