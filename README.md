@@ -1,0 +1,4 @@
+JustinMortonGameAIAssignment
+============================
+
+Assignment for class
